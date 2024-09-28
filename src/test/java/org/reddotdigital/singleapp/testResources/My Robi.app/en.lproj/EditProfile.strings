@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "Nick Name"; ObjectID = "1Ul-oD-ObQ"; */
+"1Ul-oD-ObQ.placeholder" = "Nick Name";
+
+/* Class = "UIButton"; normalTitle = "Save Changes"; ObjectID = "JyC-ey-IzA"; */
+"JyC-ey-IzA.normalTitle" = "Save Changes";
+
+/* Class = "UILabel"; text = "8948930923"; ObjectID = "Usm-Zq-hDh"; */
+"Usm-Zq-hDh.text" = "8948930923";
+
+/* Class = "UIButton"; normalTitle = "Sign In with Google"; ObjectID = "heu-md-a3M"; */
+"heu-md-a3M.normalTitle" = "Sign In with Google";
+
+/* Class = "UIButton"; normalTitle = "Sign In with Facebook"; ObjectID = "uFH-NX-YcY"; */
+"uFH-NX-YcY.normalTitle" = "Sign In with Facebook";

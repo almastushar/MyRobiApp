@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Add New Member"; ObjectID = "1qV-cT-1xU"; */
+"1qV-cT-1xU.text" = "Add New Member";
+
+/* Class = "UILabel"; text = "Add to Priyo Number"; ObjectID = "9Rh-lo-zG6"; */
+"9Rh-lo-zG6.text" = "Add to Priyo Number";
+
+/* Class = "UIButton"; normalTitle = "Add Members"; ObjectID = "C07-p1-0yN"; */
+"C07-p1-0yN.normalTitle" = "Add Members";
+
+/* Class = "UIButton"; normalTitle = "Add to FnF Program"; ObjectID = "HBu-cn-E9W"; */
+"HBu-cn-E9W.normalTitle" = "Add to FnF Program";
+
+/* Class = "UILabel"; text = "৳"; ObjectID = "ScD-WL-4u8"; */
+"ScD-WL-4u8.text" = "৳";
+
+/* Class = "UIButton"; normalTitle = "Upload Image"; ObjectID = "Uxu-Sw-hVM"; */
+"Uxu-Sw-hVM.normalTitle" = "Upload Image";
+
+/* Class = "UILabel"; text = "Add New Member"; ObjectID = "Yhe-UL-5an"; */
+"Yhe-UL-5an.text" = "Add New Member";
+
+/* Class = "UILabel"; text = "You can add 1 more priyo number"; ObjectID = "Z1k-E1-9NQ"; */
+"Z1k-E1-9NQ.text" = "You can add 1 more priyo number";
+
+/* Class = "UILabel"; text = "Talk more, Pay less!"; ObjectID = "j6V-Dh-gKs"; */
+"j6V-Dh-gKs.text" = "Talk more, Pay less!";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "md9-5R-Pih"; */
+"md9-5R-Pih.placeholder" = "Mobile Number";
+
+/* Class = "UILabel"; text = "Enjoy discounts for family and friends"; ObjectID = "qea-7q-M7u"; */
+"qea-7q-M7u.text" = "Enjoy discounts for family and friends";

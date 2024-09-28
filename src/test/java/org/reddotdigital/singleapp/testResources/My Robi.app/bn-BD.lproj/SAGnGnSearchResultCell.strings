@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Artist"; ObjectID = "1M3-S6-dfT"; */
+"1M3-S6-dfT.text" = "শিল্পী";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Y2r-nC-jK8"; */
+"Y2r-nC-jK8.text" = "শিরোনাম";
+
+/* Class = "UILabel"; text = "Album"; ObjectID = "bxz-ga-UUj"; */
+"bxz-ga-UUj.text" = "এলবাম";

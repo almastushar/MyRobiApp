@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Tune Cost :"; ObjectID = "IoP-QR-dbh"; */
+"IoP-QR-dbh.text" = "টিউন খরচ :";
+
+/* Class = "UILabel"; text = "Change to"; ObjectID = "UIP-rc-Zt8"; */
+"UIP-rc-Zt8.text" = "ডাউনলোড করুন";
+
+/* Class = "UILabel"; text = "15"; ObjectID = "UVh-Bn-Gbw"; */
+"UVh-Bn-Gbw.text" = "15";
+
+/* Class = "UILabel"; text = "15"; ObjectID = "cfX-r4-aSE"; */
+"cfX-r4-aSE.text" = "15";
+
+/* Class = "UIButton"; normalTitle = "Set Goongoon"; ObjectID = "e3d-nF-rja"; */
+"e3d-nF-rja.normalTitle" = "গুনগুন সেট করুন";
+
+/* Class = "UILabel"; text = "Tune Title ?"; ObjectID = "lQb-AA-ddo"; */
+"lQb-AA-ddo.text" = "টিউন শিরোনাম?";
+
+/* Class = "UILabel"; text = "Activation Cost :"; ObjectID = "pES-Hc-eLt"; */
+"pES-Hc-eLt.text" = "অ্যাক্টিভেশন খরচ :";
+
+/* Class = "UILabel"; text = "Cost :"; ObjectID = "rTe-bs-VG2"; */
+"rTe-bs-VG2.text" = "খরচ :";
+
+/* Class = "UILabel"; text = "15"; ObjectID = "vXM-IX-WY3"; */
+"vXM-IX-WY3.text" = "15";

@@ -1,0 +1,105 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "0lE-eu-pUr"; */
+"0lE-eu-pUr.text" = "০";
+
+/* Class = "UILabel"; text = "Validity"; ObjectID = "4Cm-o9-Ohy"; */
+"4Cm-o9-Ohy.text" = "মেয়াদ";
+
+/* Class = "UILabel"; text = "SMS"; ObjectID = "4tN-6U-zLQ"; */
+"4tN-6U-zLQ.text" = "এসএমএস";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "5AT-Rm-xDB"; */
+"5AT-Rm-xDB.text" = "০";
+
+/* Class = "UILabel"; text = "Validity"; ObjectID = "67d-0o-b9p"; */
+"67d-0o-b9p.text" = "মেয়াদ";
+
+/* Class = "UILabel"; text = "Days"; ObjectID = "69P-zX-DC9"; */
+"69P-zX-DC9.text" = "দিন";
+
+/* Class = "UILabel"; text = "Select your network preference for voice calls"; ObjectID = "6Dh-7C-Pdb"; */
+"6Dh-7C-Pdb.text" = "ভয়েস কলের জন্য আপনার পছন্দের নেটওয়ার্কটি নির্বাচন করুন";
+
+/* Class = "UIButton"; normalTitle = "Robi to Robi"; ObjectID = "6ZT-ny-68t"; */
+"6ZT-ny-68t.normalTitle" = "রবি থেকে রবি";
+
+/* Class = "UILabel"; text = "Internet"; ObjectID = "7KN-ta-iye"; */
+"7KN-ta-iye.text" = "ইন্টারনেট";
+
+/* Class = "UILabel"; text = "Voice"; ObjectID = "8hs-uD-ubC"; */
+"8hs-uD-ubC.text" = "ভয়েস";
+
+/* Class = "UILabel"; text = "savings"; ObjectID = "A9u-LO-A8k"; */
+"A9u-LO-A8k.text" = "savings";
+
+/* Class = "UILabel"; text = "MB"; ObjectID = "AlC-yz-e67"; */
+"AlC-yz-e67.text" = "এমবি";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "CEd-u3-URW"; */
+"CEd-u3-URW.text" = "মোট";
+
+/* Class = "UIButton"; normalTitle = "Any Network"; ObjectID = "DQv-23-OMh"; */
+"DQv-23-OMh.normalTitle" = "যেকোন নেটওয়ার্ক";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "E6r-NJ-71z"; */
+"E6r-NJ-71z.text" = "1";
+
+/* Class = "UILabel"; text = "00.00%"; ObjectID = "EzM-gP-ApK"; */
+"EzM-gP-ApK.text" = "00.00%";
+
+/* Class = "UILabel"; text = "1 Day"; ObjectID = "K27-e1-Bqh"; */
+"K27-e1-Bqh.text" = "1 Day";
+
+/* Class = "UILabel"; text = "0 MB DATA"; ObjectID = "KbW-gP-nDW"; */
+"KbW-gP-nDW.text" = "0 MB DATA";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Lpd-c9-Ix0"; */
+"Lpd-c9-Ix0.text" = "০";
+
+/* Class = "UILabel"; text = "0 SMS"; ObjectID = "XVz-vw-HVP"; */
+"XVz-vw-HVP.text" = "0 SMS";
+
+/* Class = "UILabel"; text = "Voice"; ObjectID = "Yf8-vS-5il"; */
+"Yf8-vS-5il.text" = "ভয়েস";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ciG-JA-1nu"; */
+"ciG-JA-1nu.text" = "০";
+
+/* Class = "UILabel"; text = "0 MIN"; ObjectID = "ejR-uO-OjL"; */
+"ejR-uO-OjL.text" = "0 MIN";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "gPa-5D-sZx"; */
+"gPa-5D-sZx.text" = "০";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "gsy-Yf-ndy"; */
+"gsy-Yf-ndy.text" = "০";
+
+/* Class = "UILabel"; text = "Mins"; ObjectID = "hp5-VA-J3C"; */
+"hp5-VA-J3C.text" = "মিনিটস";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "jSU-Eg-4t4"; */
+"jSU-Eg-4t4.text" = "০";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "uOI-dF-qrE"; */
+"uOI-dF-qrE.text" = "ডাটা";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "w1i-qZ-ghr"; */
+"w1i-qZ-ghr.normalTitle" = "নিশ্চিত করুন";
+
+/* Class = "UILabel"; text = "SMS"; ObjectID = "wJx-t9-PpS"; */
+"wJx-t9-PpS.text" = "এসএমএস";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "wYo-bZ-JlM"; */
+"wYo-bZ-JlM.text" = "০";
+
+/* Class = "UILabel"; text = "৳"; ObjectID = "x0h-kk-Uxq"; */
+"x0h-kk-Uxq.text" = "৳";
+
+/* Class = "UILabel"; text = "SMS"; ObjectID = "x6x-EU-iAm"; */
+"x6x-EU-iAm.text" = "এসএমএস";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "xne-Vu-anV"; */
+"xne-Vu-anV.text" = "০";
+
+/* Class = "UIButton"; normalTitle = "Buy Now"; ObjectID = "zKg-KQ-3CF"; */
+"zKg-KQ-3CF.normalTitle" = "কিনুন";

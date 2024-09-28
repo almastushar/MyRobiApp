@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Confirm Recharge"; ObjectID = "12B-wl-MZD"; */
+"12B-wl-MZD.normalTitle" = "Confirm Recharge";
+
+/* Class = "UILabel"; text = "bKash"; ObjectID = "1E6-Dv-pCR"; */
+"1E6-Dv-pCR.text" = "bKash";
+
+/* Class = "UILabel"; text = "Bank"; ObjectID = "8Ln-Rt-nan"; */
+"8Ln-Rt-nan.text" = "Bank";
+
+/* Class = "UILabel"; text = "Mobile Banking"; ObjectID = "C6X-v7-6YZ"; */
+"C6X-v7-6YZ.text" = "Mobile Banking";
+
+/* Class = "UILabel"; text = "RobiCash"; ObjectID = "Htm-w4-zdS"; */
+"Htm-w4-zdS.text" = "RobiCash";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "U2Z-eC-DVz"; */
+"U2Z-eC-DVz.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VnA-9C-dsL"; */
+"VnA-9C-dsL.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter email here"; ObjectID = "VrQ-6C-wBl"; */
+"VrQ-6C-wBl.placeholder" = "Enter email here";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Xin-lp-Viu"; */
+"Xin-lp-Viu.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Card"; ObjectID = "gLL-KZ-Vr6"; */
+"gLL-KZ-Vr6.text" = "Card";
+
+/* Class = "UILabel"; text = "Get receipt in my email"; ObjectID = "pH9-aM-4kW"; */
+"pH9-aM-4kW.text" = "Get receipt in my email";
+
+/* Class = "UITextField"; placeholder = "Recharge Amount"; ObjectID = "rFy-n4-eXV"; */
+"rFy-n4-eXV.placeholder" = "Recharge Amount";

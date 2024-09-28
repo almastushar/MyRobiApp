@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "150 MB"; ObjectID = "4jf-EZ-XFP"; */
+"4jf-EZ-XFP.text" = "150 MB";
+
+/* Class = "UILabel"; text = "8801688195916"; ObjectID = "7K3-ZT-1G1"; */
+"7K3-ZT-1G1.text" = "8801688195916";
+
+/* Class = "UILabel"; text = "Expire date: "; ObjectID = "9K5-Eu-Apd"; */
+"9K5-Eu-Apd.text" = "শেষ তারিখ: ";
+
+/* Class = "UILabel"; text = "Timer Pack"; ObjectID = "GdL-dq-c7D"; */
+"GdL-dq-c7D.text" = "টাইমার প্যাক";
+
+/* Class = "UILabel"; text = "   hr           min         sec"; ObjectID = "Ggr-G3-VBr"; */
+"Ggr-G3-VBr.text" = "   ঘণ্টা           মিঃ         সেঃ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JbG-pj-Aak"; */
+"JbG-pj-Aak.text" = "Label";
+
+/* Class = "UILabel"; text = "You have no Data pack"; ObjectID = "KgD-ud-FWV"; */
+"KgD-ud-FWV.text" = "আপনার কোন ডাটা প্যাক নেই";
+
+/* Class = "UILabel"; text = "of 1 GB"; ObjectID = "MWa-p7-WQ4"; */
+"MWa-p7-WQ4.text" = "১ জিবির";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N41-Vx-Idh"; */
+"N41-Vx-Idh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SqA-a0-Go4"; */
+"SqA-a0-Go4.text" = "Label";
+
+/* Class = "UILabel"; text = "00.00"; ObjectID = "Ull-xY-gBK"; */
+"Ull-xY-gBK.text" = "০০.০০";
+
+/* Class = "UILabel"; text = "Expire date: "; ObjectID = "fC5-Si-q0P"; */
+"fC5-Si-q0P.text" = "শেষ তারিখ: ";
+
+/* Class = "UILabel"; text = "Auto Renew On"; ObjectID = "fGl-tQ-VSk"; */
+"fGl-tQ-VSk.text" = "অটো রিনিউ চালু";
+
+/* Class = "UIButton"; normalTitle = "Buy Pack"; ObjectID = "gUU-vU-5Qz"; */
+"gUU-vU-5Qz.normalTitle" = "প্যাক কিনুন";
+
+/* Class = "UILabel"; text = "150 MB"; ObjectID = "kGT-WC-cCx"; */
+"kGT-WC-cCx.text" = "150 MB";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tC8-Sy-XLB"; */
+"tC8-Sy-XLB.text" = "Label";
+
+/* Class = "UILabel"; text = "of 1 GB"; ObjectID = "thQ-nl-E0E"; */
+"thQ-nl-E0E.text" = "of 1 GB";
+
+/* Class = "UILabel"; text = "Roaming Bundle"; ObjectID = "zMF-IJ-Egd"; */
+"zMF-IJ-Egd.text" = "রোমিং বান্ডেল";

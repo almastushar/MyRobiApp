@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Enter or select a Robi number"; ObjectID = "4Fi-aB-4pp"; */
+"4Fi-aB-4pp.text" = "একটি রবি নম্বর লিখুন বা নির্বাচন করুন";
+
+/* Class = "UIButton"; normalTitle = "More information"; ObjectID = "5IP-qn-mTf"; */
+"5IP-qn-mTf.normalTitle" = "আরও তথ্য জানতে";
+
+/* Class = "UIButton"; normalTitle = "Proceed"; ObjectID = "AAb-Nb-FIp"; */
+"AAb-Nb-FIp.normalTitle" = "ঠিক আছে";
+
+/* Class = "UILabel"; text = "Please enter below"; ObjectID = "Kwr-UT-DU3"; */
+"Kwr-UT-DU3.text" = "নিম্নে প্রবেশ করান";
+
+/* Class = "UILabel"; text = "Your OTP has been sent to your registered number."; ObjectID = "QEC-Md-9VV"; */
+"QEC-Md-9VV.text" = "আপনার রেজিস্টার্ড নম্বরে ওটিপি পাঠানো হয়েছে";
+
+/* Class = "UITextField"; placeholder = "Enter OTP"; ObjectID = "Veq-Ay-1hV"; */
+"Veq-Ay-1hV.placeholder" = "ওটিপি লিখুন";
+
+/* Class = "UILabel"; text = "Please select from your profiles"; ObjectID = "XCq-Jp-Ac3"; */
+"XCq-Jp-Ac3.text" = "অনুগ্রহ করে আপনার প্রোফাইল থেকে নির্বাচন করুন";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "YVY-rK-kr9"; */
+"YVY-rK-kr9.text" = "অথবা";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "aMv-Eh-K1R"; */
+"aMv-Eh-K1R.placeholder" = "মোবাইল নাম্বার";
+
+/* Class = "UILabel"; text = "Select from below denominations"; ObjectID = "aP3-DG-9i8"; */
+"aP3-DG-9i8.text" = "নিম্নোক্ত তালিকা থেকে নির্বাচন করুন ";
+
+/* Class = "UIButton"; normalTitle = "Transfer Balance"; ObjectID = "dus-HJ-4W8"; */
+"dus-HJ-4W8.normalTitle" = "ট্রান্সফার ব্যালেন্স";

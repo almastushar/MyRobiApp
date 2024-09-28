@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Auto Renew On"; ObjectID = "C9z-gF-CL4"; */
+"C9z-gF-CL4.normalTitle" = "Auto Renew On";
+
+/* Class = "UILabel"; text = "Usage"; ObjectID = "Mfq-g5-e3U"; */
+"Mfq-g5-e3U.text" = "Usage";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Sq1-am-Ymt"; */
+"Sq1-am-Ymt.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Buy Pack"; ObjectID = "ibN-JF-4Cj"; */
+"ibN-JF-4Cj.normalTitle" = "Buy Pack";

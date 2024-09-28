@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Choose Your Data"; ObjectID = "6DS-Sk-Z8m"; */
+"6DS-Sk-Z8m.text" = "আপনার ডেটা পছন্দ করুন";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "AQl-Ol-cN1"; */
+"AQl-Ol-cN1.normalTitle" = "সম্পন্ন হয়েছে";
+
+/* Class = "UILabel"; text = "MB"; ObjectID = "MiD-DC-Tiv"; */
+"MiD-DC-Tiv.text" = "এমবি";

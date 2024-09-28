@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Volume"; ObjectID = "OK3-Ik-NtY"; */
+"OK3-Ik-NtY.normalTitle" = "Volume";
+
+/* Class = "UIButton"; normalTitle = "Find My Perfect Pack"; ObjectID = "QK6-By-wtb"; */
+"QK6-By-wtb.normalTitle" = "Find My Perfect Pack";
+
+/* Class = "UILabel"; text = "What would you like to filter by?"; ObjectID = "c8P-Sh-fSb"; */
+"c8P-Sh-fSb.text" = "What would you like to filter by?";
+
+/* Class = "UIButton"; normalTitle = "Validity"; ObjectID = "p02-Tg-RNM"; */
+"p02-Tg-RNM.normalTitle" = "Validity";
+
+/* Class = "UIButton"; normalTitle = "Price"; ObjectID = "zJq-BB-UbB"; */
+"zJq-BB-UbB.normalTitle" = "Price";

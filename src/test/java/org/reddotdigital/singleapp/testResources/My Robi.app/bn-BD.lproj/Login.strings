@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "3y2-zy-rDz"; */
+"3y2-zy-rDz.text" = "লগইন";
+
+/* Class = "UIButton"; normalTitle = "Sign In with Facebook"; ObjectID = "5eL-ox-FFY"; */
+"5eL-ox-FFY.normalTitle" = "ফেইসবুক দিয়ে সাইন ইন";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7Ti-He-xKN"; */
+"7Ti-He-xKN.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "ABB-9o-s0t"; */
+"ABB-9o-s0t.placeholder" = "মোবাইল নম্বর";
+
+/* Class = "UIButton"; normalTitle = "Resend"; ObjectID = "BGO-kM-C1j"; */
+"BGO-kM-C1j.normalTitle" = "পুনরায় পাঠান";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "CTY-Hr-HBc"; */
+"CTY-Hr-HBc.normalTitle" = "লগইন";
+
+/* Class = "UITextField"; placeholder = "Enter OTP"; ObjectID = "Gk3-tw-xfd"; */
+"Gk3-tw-xfd.placeholder" = "ওটিপি লিখুন";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "OkS-GH-Wpv"; */
+"OkS-GH-Wpv.text" = "লগইন";
+
+/* Class = "UIButton"; normalTitle = "Send OTP"; ObjectID = "W5n-Pa-YSl"; */
+"W5n-Pa-YSl.normalTitle" = "ওটিপি পাঠান";
+
+/* Class = "UIButton"; normalTitle = "Sign In with Google"; ObjectID = "Zlw-2U-ECz"; */
+"Zlw-2U-ECz.normalTitle" = "গুগল দিয়ে সাইন ইন";
+
+/* Class = "UIButton"; normalTitle = "Login with Mobile"; ObjectID = "oUA-54-AOm"; */
+"oUA-54-AOm.normalTitle" = "মোবাইল নম্বর দিয়ে লগইন";

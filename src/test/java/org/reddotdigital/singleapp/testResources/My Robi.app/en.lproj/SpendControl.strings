@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Total Limit :"; ObjectID = "Am1-5C-dyd"; */
+"Am1-5C-dyd.text" = "Total Limit :";
+
+/* Class = "UILabel"; text = "End Date :"; ObjectID = "MyD-Yn-KTI"; */
+"MyD-Yn-KTI.text" = "End Date :";
+
+/* Class = "UILabel"; text = "Spend Control Frequency :"; ObjectID = "QE7-uL-jvI"; */
+"QE7-uL-jvI.text" = "Spend Control Frequency :";
+
+/* Class = "UIButton"; normalTitle = "Deactivate"; ObjectID = "QmE-1b-6ar"; */
+"QmE-1b-6ar.normalTitle" = "Deactivate";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WoP-b2-Ooo"; */
+"WoP-b2-Ooo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X6f-oP-gVy"; */
+"X6f-oP-gVy.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Weekly"; ObjectID = "bNa-m4-FwF"; */
+"bNa-m4-FwF.normalTitle" = "Weekly";
+
+/* Class = "UITextField"; placeholder = "ENTER AMOUNT"; ObjectID = "f0k-45-46r"; */
+"f0k-45-46r.placeholder" = "ENTER AMOUNT";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "juY-mp-cSD"; */
+"juY-mp-cSD.text" = "Label";
+
+/* Class = "UILabel"; text = "Spend Control Setup"; ObjectID = "jzi-g6-NOb"; */
+"jzi-g6-NOb.text" = "Spend Control Setup";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "k7o-TO-mDP"; */
+"k7o-TO-mDP.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Monthly"; ObjectID = "lzt-Cy-Kgp"; */
+"lzt-Cy-Kgp.normalTitle" = "Monthly";
+
+/* Class = "UILabel"; text = "Start Date :"; ObjectID = "oWJ-Tb-7Zd"; */
+"oWJ-Tb-7Zd.text" = "Start Date :";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rzi-TT-te4"; */
+"rzi-TT-te4.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Daily"; ObjectID = "syc-kw-OJf"; */
+"syc-kw-OJf.normalTitle" = "Daily";
+
+/* Class = "UILabel"; text = "Spent Amount :"; ObjectID = "tl0-R6-Fgn"; */
+"tl0-R6-Fgn.text" = "Spent Amount :";
+
+/* Class = "UIButton"; normalTitle = "Active"; ObjectID = "xDw-x1-WiU"; */
+"xDw-x1-WiU.normalTitle" = "Active";
+
+/* Class = "UIButton"; normalTitle = "Modify"; ObjectID = "y0X-2m-Alq"; */
+"y0X-2m-Alq.normalTitle" = "Modify";
+
+/* Class = "UILabel"; text = "Select Quick Amount"; ObjectID = "zjZ-Rt-YWT"; */
+"zjZ-Rt-YWT.text" = "Select Quick Amount";

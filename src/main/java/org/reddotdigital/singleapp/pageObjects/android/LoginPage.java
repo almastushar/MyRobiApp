@@ -21,7 +21,7 @@ public class LoginPage extends AndroidActions {
 	@AndroidFindBy(id = "net.omobio.robisc:id/edit_text")
 	WebElement mobInputField;
 
-	@AndroidFindBy(id = "net.omobio.robisc:id/button_request_otp")
+	@AndroidFindBy(id = "net.omobio.robisc:id/buttonSendOtp")
 	WebElement btnOTPRequest;
 
 	@AndroidFindBy(id = "net.omobio.robisc:id/code1")
@@ -42,7 +42,7 @@ public class LoginPage extends AndroidActions {
 	@AndroidFindBy(id = "net.omobio.robisc:id/code6")
 	WebElement otpInputField6;
 
-	@AndroidFindBy(id = "net.omobio.robisc:id/button_continue_login")
+	@AndroidFindBy(id = "net.omobio.robisc:id/buttonVerifyOtp")
 	WebElement btnContinueLogin;
 
 	public void setMobileNumber(String mobileNumber) {

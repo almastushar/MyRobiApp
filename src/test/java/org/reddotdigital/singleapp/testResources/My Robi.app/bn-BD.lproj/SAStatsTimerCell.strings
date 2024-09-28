@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "Auto Renew"; ObjectID = "7cP-vY-KBi"; */
+"7cP-vY-KBi.normalTitle" = "অটো রিনিউ";
+
+/* Class = "UILabel"; text = "   hr           min         sec"; ObjectID = "Wie-ES-yjV"; */
+"Wie-ES-yjV.text" = "   ঘণ্টা           মিঃ         সেঃ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "b0C-xY-MdF"; */
+"b0C-xY-MdF.text" = "Label";
+
+/* Class = "UILabel"; text = "Usage"; ObjectID = "gST-JQ-oNj"; */
+"gST-JQ-oNj.text" = "ব্যবহার";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "pi6-86-Q5u"; */
+"pi6-86-Q5u.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Buy Pack"; ObjectID = "zZw-5g-0oZ"; */
+"zZw-5g-0oZ.normalTitle" = "প্যাক কিনুন";

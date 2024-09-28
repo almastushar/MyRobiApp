@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "Many More"; ObjectID = "2rc-xd-8d0"; */
+"2rc-xd-8d0.normalTitle" = "আরও অনেক";
+
+/* Class = "UILabel"; text = "Robi Shop"; ObjectID = "CI4-z0-sW5"; */
+"CI4-z0-sW5.text" = "রবি শপ";
+
+/* Class = "UILabel"; text = "Robi Yonder Music"; ObjectID = "E23-ih-X9g"; */
+"E23-ih-X9g.text" = "রবি ইয়োন্ডার";
+
+/* Class = "UILabel"; text = "Not Logged In?"; ObjectID = "P0Y-kQ-IJH"; */
+"P0Y-kQ-IJH.text" = "লগ ইন করা হয়নি?";
+
+/* Class = "UILabel"; text = "4G Map"; ObjectID = "Qg5-Uw-UQj"; */
+"Qg5-Uw-UQj.text" = "4G ম্যাপ";
+
+/* Class = "UILabel"; text = "It's OK! You Can Still:"; ObjectID = "Vwh-8X-ST6"; */
+"Vwh-8X-ST6.text" = "ঠিক আছে! আপনি এখনো ব্যবহার করতে পারেন:";
+
+/* Class = "UILabel"; text = "Recharge"; ObjectID = "ap4-rO-j3f"; */
+"ap4-rO-j3f.text" = "রিচার্জ";
+
+/* Class = "UILabel"; text = "Buy Tickets"; ObjectID = "eOF-wP-ci4"; */
+"eOF-wP-ci4.text" = "টিকেট কিনুন";
+
+/* Class = "UILabel"; text = "Join my robi world"; ObjectID = "kW3-6a-XD9"; */
+"kW3-6a-XD9.text" = "মাই রবি ওয়ার্ল্ডে স্বাগতম";
+
+/* Class = "UILabel"; text = "Simplifying Digital Living"; ObjectID = "rL6-6N-Nt6"; */
+"rL6-6N-Nt6.text" = "সহজ করুন ডিজিটাল জীবনযাত্রা";
+
+/* Class = "UILabel"; text = "Silent SIM"; ObjectID = "vQf-K5-bxP"; */
+"vQf-K5-bxP.text" = "বন্ধ সিম অফার";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wEl-m8-wRa"; */
+"wEl-m8-wRa.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yMs-cv-zrO"; */
+"yMs-cv-zrO.normalTitle" = "Button";

@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "Are you sure you want to remove Shamir from frineds & family?"; ObjectID = "Abj-cw-ndr"; */
+"Abj-cw-ndr.text" = "আপনি কি নিশ্চিত, ফ্রেন্ডস এন্ড ফ্যামিলি থেকে নম্বরটি বাদ দিতে চান?";
+
+/* Class = "UIButton"; normalTitle = "Remove"; ObjectID = "stz-Ys-lrd"; */
+"stz-Ys-lrd.normalTitle" = "মুছে ফেলুন";

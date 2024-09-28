@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "wkJ-id-0je"; */
+"wkJ-id-0je.normalTitle" = "ঠিক আছে";
+
+/* Class = "UITextField"; placeholder = "Enter spend amount"; ObjectID = "yIA-o2-fqS"; */
+"yIA-o2-fqS.placeholder" = "আপনার কাঙ্খিত খরচের পরিমান";
+
+/* Class = "UILabel"; text = "Please enter amount of spend control"; ObjectID = "zma-l9-4DN"; */
+"zma-l9-4DN.text" = "অনুগ্রহ করে আপনার কাঙ্খিত খরচের পরিমান লিখুন";

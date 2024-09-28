@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "Set"; ObjectID = "2h3-HE-GST"; */
+"2h3-HE-GST.normalTitle" = "সেট করুন ";
+
+/* Class = "UILabel"; text = "Album"; ObjectID = "6F9-3v-CBA"; */
+"6F9-3v-CBA.text" = "এলবাম";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "7Hd-xM-sK0"; */
+"7Hd-xM-sK0.text" = "Title";
+
+/* Class = "UILabel"; text = "Which Goongoon would you like to change to?"; ObjectID = "KF7-Ki-MSX"; */
+"KF7-Ki-MSX.text" = "কোন গুনগুন আপনি পরিবর্তন করতে চান?";
+
+/* Class = "UITextField"; placeholder = "Song / Artist / Code / Album"; ObjectID = "UPf-L2-GvR"; */
+"UPf-L2-GvR.placeholder" = "গান/শিল্পী/কোড/অ্যালবাম";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "WvQ-ZE-D9X"; */
+"WvQ-ZE-D9X.text" = "Name";
+
+/* Class = "UILabel"; text = "Your Current Goongoon"; ObjectID = "XYb-EJ-1jE"; */
+"XYb-EJ-1jE.text" = "আপনার বর্তমান গুনগুন";
+
+/* Class = "UILabel"; text = "Artist"; ObjectID = "djS-UF-1F7"; */
+"djS-UF-1F7.text" = "শিল্পী";
+
+/* Class = "UILabel"; text = "Lbl 2"; ObjectID = "dmo-mp-w8c"; */
+"dmo-mp-w8c.text" = "Lbl 2";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "gdQ-H9-ux7"; */
+"gdQ-H9-ux7.normalTitle" = "আপডেট";
+
+/* Class = "UILabel"; text = "Lbl 1"; ObjectID = "zj2-LP-Wcp"; */
+"zj2-LP-Wcp.text" = "Lbl 1";

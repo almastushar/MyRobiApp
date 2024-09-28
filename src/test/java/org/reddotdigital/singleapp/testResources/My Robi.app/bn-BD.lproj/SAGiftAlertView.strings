@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "4g8-90-gan"; */
+"4g8-90-gan.text" = "শর্তাদি এবং শর্তাবলী।";
+
+/* Class = "UILabel"; text = "• A prepaid customer can transfer total Tk. 500 per day but maximum Tk. 100 in a single transaction."; ObjectID = "Cqo-QT-y54"; */
+"Cqo-QT-y54.text" = "• একজন প্রিপেইড গ্রাহক প্রতিদিন সর্বমোট ৫০০ টাকা ট্রান্সফার করতে পারবেন কিন্তু এক বারে সর্বোচ্চ ৩০০ টাকা।";
+
+/* Class = "UILabel"; text = "• For both prepaid & postpaid, minimum amount to transfer is Tk. 5 and monthly maximum transfer amount is Tk. 1000."; ObjectID = "Kau-dz-gzQ"; */
+"Kau-dz-gzQ.text" = "• প্রিপেইড এবং পোস্টপেইড উভয় ক্ষেত্রে ন্যূনতম ট্রান্সফার ৫ টাকা এবং মাসিক সর্বোচ্চ ট্রান্সফারের পরিমাণ ১০০০ টাকা।";
+
+/* Class = "UILabel"; text = "•  In order to use balance transfer service, your connection must be active for at least 30 days."; ObjectID = "Xdm-Gi-4jO"; */
+"Xdm-Gi-4jO.text" = "•  ব্যালেন্স ট্রান্সফার সার্ভিস ব্যবহার করার জন্য আপনার সংযোগ কমপক্ষে ৩০ দিনের জন্য চালু থাকতে হবে।";
+
+/* Class = "UILabel"; text = "• Transfer amount must be a whole number (e.g. BDT 15.30 is not valid).  Supplementary Duty (SD) + VAT on price inclusive of SD and conditions apply."; ObjectID = "oml-hQ-1Yf"; */
+"oml-hQ-1Yf.text" = "• ট্রান্সফার পরিমাণ অবশ্যই একটি পূর্ণ সংখ্যা হতে হবে (যেমন ১৫.৩০ টাকা সঠিক নয়)।  ট্যারিফের উপর ট্যাক্স (ভ্যাট+সম্পূরক শুল্ক+সারচার্জ) ও অন্যান্য শর্তাবলী প্রযোজ্য।";

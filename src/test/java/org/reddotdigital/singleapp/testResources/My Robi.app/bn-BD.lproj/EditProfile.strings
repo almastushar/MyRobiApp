@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "Nick Name"; ObjectID = "1Ul-oD-ObQ"; */
+"1Ul-oD-ObQ.placeholder" = "ডাক নাম লিখুন";
+
+/* Class = "UIButton"; normalTitle = "Save Changes"; ObjectID = "JyC-ey-IzA"; */
+"JyC-ey-IzA.normalTitle" = "সংরক্ষণ করুন";
+
+/* Class = "UILabel"; text = "8948930923"; ObjectID = "Usm-Zq-hDh"; */
+"Usm-Zq-hDh.text" = "8948930923";
+
+/* Class = "UIButton"; normalTitle = "Sign In with Google"; ObjectID = "heu-md-a3M"; */
+"heu-md-a3M.normalTitle" = "গুগল একাউন্ট দিয়ে সাইন ইন করুন";
+
+/* Class = "UIButton"; normalTitle = "Sign In with Facebook"; ObjectID = "uFH-NX-YcY"; */
+"uFH-NX-YcY.normalTitle" = "ফেসবুক একাউন্ট দিয়ে সাইন ইন করুন";

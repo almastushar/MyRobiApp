@@ -10,12 +10,12 @@ public class ExtentReporterNG {
 
 		String path = System.getProperty("user.dir") + "//reports//index.html";
 		ExtentSparkReporter reporter = new ExtentSparkReporter(path);
-		reporter.config().setReportName("My Robi Automation Results");
-		reporter.config().setDocumentTitle("My Robi Test Results");
+		reporter.config().setReportName("Single App Automation Results");
+		reporter.config().setDocumentTitle("Single App Test Results");
 
 		extent = new ExtentReports();
 		extent.attachReporter(reporter);
-		extent.setSystemInfo("Tester", "Almas");
+		extent.setSystemInfo("Tester", "QA Team");
 		return extent;
 
 	}

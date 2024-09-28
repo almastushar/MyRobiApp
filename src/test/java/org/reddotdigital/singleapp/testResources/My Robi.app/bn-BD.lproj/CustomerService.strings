@@ -1,0 +1,48 @@
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "0Y8-eM-hsP"; */
+"0Y8-eM-hsP.normalTitle" = "পরবর্তী";
+
+/* Class = "UILabel"; text = "Drop Down "; ObjectID = "2QL-ui-PgS"; */
+"2QL-ui-PgS.text" = "Drop Down ";
+
+/* Class = "UILabel"; text = "Cancelled"; ObjectID = "3lu-BW-PUA"; */
+"3lu-BW-PUA.text" = "বাতিল করা হয়েছে";
+
+/* Class = "UILabel"; text = "Please share your concerns with us!"; ObjectID = "45I-nc-7ns"; */
+"45I-nc-7ns.text" = "আপনার অভিযোগ আমাদেরকে জানান!";
+
+/* Class = "UITextField"; placeholder = "Choose Date"; ObjectID = "KL1-QW-OnB"; */
+"KL1-QW-OnB.placeholder" = "তারিখ নির্বাচন করুন";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Kiq-6r-v27"; */
+"Kiq-6r-v27.normalTitle" = "সাবমিট করুন";
+
+/* Class = "UILabel"; text = "#52486278787867565678"; ObjectID = "N7V-UD-XiS"; */
+"N7V-UD-XiS.text" = "#52486278787867565678";
+
+/* Class = "UILabel"; text = "String Type"; ObjectID = "Nhf-3R-faG"; */
+"Nhf-3R-faG.text" = "String Type";
+
+/* Class = "UITextField"; placeholder = "Type (Choose First)"; ObjectID = "Sta-bU-nAs"; */
+"Sta-bU-nAs.placeholder" = "টাইপ করুন (প্রথমে কিছু একটি নির্বাচন করুন)";
+
+/* Class = "UILabel"; text = "Date Type"; ObjectID = "WSW-K6-clh"; */
+"WSW-K6-clh.text" = "Date Type";
+
+/* Class = "UILabel"; text = "Active Tickets:"; ObjectID = "WZm-5u-cHM"; */
+"WZm-5u-cHM.text" = "চালু টিকিটস:";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting."; ObjectID = "XN8-NU-FFH"; */
+"XN8-NU-FFH.text" = "Lorem Ipsum is simply dummy text of the printing and typesetting.";
+
+/* Class = "UILabel"; text = "Select From Options"; ObjectID = "ZeN-tA-zkD"; */
+"ZeN-tA-zkD.text" = "অপশন থেকে নির্বাচন করুন";
+
+/* Class = "UITextField"; placeholder = "Area"; ObjectID = "ek8-tc-n07"; */
+"ek8-tc-n07.placeholder" = "এরিয়া";
+
+/* Class = "UIButton"; normalTitle = "Get in Touch"; ObjectID = "eya-dl-yo5"; */
+"eya-dl-yo5.normalTitle" = "যোগাযোগ করুন";
+
+/* Class = "UITextField"; placeholder = "Sub-Area"; ObjectID = "fLL-Mi-3kV"; */
+"fLL-Mi-3kV.placeholder" = "সাব এরিয়া";
