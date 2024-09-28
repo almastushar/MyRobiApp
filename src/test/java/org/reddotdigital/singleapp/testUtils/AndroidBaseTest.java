@@ -31,7 +31,7 @@ public class AndroidBaseTest extends AppiumUtils {
 		prop.load(fs);
 		String port = prop.getProperty("port");
 
-		//service = startAppiumServer(ipAddress, Integer.parseInt(port));
+		service = startAppiumServer(ipAddress, Integer.parseInt(port));
 
 		UiAutomator2Options options = new UiAutomator2Options();
 		options.setDeviceName(prop.getProperty("AndroidDeviceName"));
@@ -45,7 +45,7 @@ public class AndroidBaseTest extends AppiumUtils {
 		options.setApp(System.getProperty("user.dir")
 				+ "/src/test/java/org/reddotdigital/singleapp/testResources/my-robi.apk");
 
-		//driver = new AndroidDriver(service.getUrl(), options);
+		driver = new AndroidDriver(service.getUrl(), options);
 		driver = new AndroidDriver(options);
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		loginPage = new LoginPage(driver);
