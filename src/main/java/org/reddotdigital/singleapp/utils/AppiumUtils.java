@@ -16,8 +16,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.reddotdigital.singleapp.pageObjects.android.HomePage;
 import org.reddotdigital.singleapp.pageObjects.android.LoginPage;
-import org.reddotdigital.singleapp.pageObjects.ios.IOS_HomePage;
-import org.reddotdigital.singleapp.pageObjects.ios.IOS_LoginPage;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -31,9 +29,6 @@ public abstract class AppiumUtils {
 	//public AndroidDriver driver;
 	public LoginPage loginPage;
 	public HomePage homePage;
-	
-	public IOS_LoginPage ios_loginPage;
-	public IOS_HomePage ios_homePage;
 
 	public AppiumDriverLocalService service;
 	public Properties prop;
@@ -90,14 +85,6 @@ public abstract class AppiumUtils {
 		homePage.selectionOffer(input.get("offerPopup"));
 		homePage.selectionUpdate(input.get("updatePopup"));
 		homePage.getProfileNameText();
-
-	}
-	
-	public void IOS_Login(HashMap<String, String> input) throws InterruptedException {
-		ios_loginPage.setMobileNumber(input.get("mobileNumber"));
-		ios_homePage = ios_loginPage.setOTP(input.get("otp"));
-
-		ios_homePage.getMobileNumText();
 
 	}
 

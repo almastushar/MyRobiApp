@@ -22,10 +22,10 @@ RUN mkdir -p ${ANDROID_SDK_ROOT} && \
     rm cmdline-tools.zip
 
 # Install the system images after the emulator for M2
-#RUN yes | ${ANDROID_SDK_ROOT}/cmdline-tools/bin/sdkmanager --sdk_root=${ANDROID_SDK_ROOT} --install "system-images;android-34;google_apis_playstore;arm64-v8a"
+RUN yes | ${ANDROID_SDK_ROOT}/cmdline-tools/bin/sdkmanager --sdk_root=${ANDROID_SDK_ROOT} --install "system-images;android-34;google_apis_playstore;arm64-v8a"
 
 # Install the system images after the emulator for windows
-RUN yes | ${ANDROID_SDK_ROOT}/cmdline-tools/bin/sdkmanager --sdk_root=${ANDROID_SDK_ROOT} --install "system-images;android-34;google_apis_playstore;x86_64"
+#RUN yes | ${ANDROID_SDK_ROOT}/cmdline-tools/bin/sdkmanager --sdk_root=${ANDROID_SDK_ROOT} --install "system-images;android-34;google_apis_playstore;x86_64"
 
 # Install other required components
 RUN yes | ${ANDROID_SDK_ROOT}/cmdline-tools/bin/sdkmanager --sdk_root=${ANDROID_SDK_ROOT} --licenses

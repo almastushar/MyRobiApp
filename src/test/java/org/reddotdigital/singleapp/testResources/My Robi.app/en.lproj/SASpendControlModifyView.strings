@@ -1,9 +1,0 @@
-
-/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "wkJ-id-0je"; */
-"wkJ-id-0je.normalTitle" = "OK";
-
-/* Class = "UITextField"; placeholder = "Enter spend amount"; ObjectID = "yIA-o2-fqS"; */
-"yIA-o2-fqS.placeholder" = "Enter spend amount";
-
-/* Class = "UILabel"; text = "Please enter amount of spend control"; ObjectID = "zma-l9-4DN"; */
-"zma-l9-4DN.text" = "Please enter amount of spend control";
