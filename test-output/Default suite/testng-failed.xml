@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.reddotdigital.singleapp.ios.tests.Test_IOSLoginPage">
+      <class name="org.reddotdigital.singleapp.android.tests.Test_LoginPage">
         <methods>
-          <include name="ConfigureAppium"/>
           <include name="tearDown"/>
-          <include name="LoginTest" invocation-numbers="0"/>
+          <include name="ConfigureAppium"/>
+          <include name="LoginTest"/>
         </methods>
-      </class> <!-- org.reddotdigital.singleapp.ios.tests.Test_IOSLoginPage -->
+      </class> <!-- org.reddotdigital.singleapp.android.tests.Test_LoginPage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

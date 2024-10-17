@@ -7,27 +7,27 @@
     </listeners>
     <test thread-count="5" name="Login Test">
         <classes>
-            <class name="org.reddotdigital.singleapp.tests.Test_LoginPage"/>
+            <class name="org.reddotdigital.singleapp.android.tests.Test_LoginPage"/>
         </classes>
     </test>
     <test thread-count="5" name="Easy Plan Test">
         <classes>
-            <class name="org.reddotdigital.singleapp.tests.Test_EasyPlan"/>
+            <class name="org.reddotdigital.singleapp.android.tests.Test_EasyPlan"/>
         </classes>
     </test> <!-- Test -->
     <test thread-count="5" name="Gift Plan Test">
         <classes>
-            <class name="org.reddotdigital.singleapp.tests.Test_GiftPlan"/>
+            <class name="org.reddotdigital.singleapp.android.tests.Test_GiftPlan"/>
         </classes>
     </test> <!-- Test -->
     <test thread-count="5" name="Logout Test">
         <classes>
-            <class name="org.reddotdigital.singleapp.tests.Test_LogoutPage"/>
+            <class name="org.reddotdigital.singleapp.android.tests.Test_LogoutPage"/>
         </classes>
     </test> <!-- Test -->
     <test thread-count="5" name="Profile Test">
         <classes>
-            <class name="org.reddotdigital.singleapp.tests.Test_UserProfile"/>
+            <class name="org.reddotdigital.singleapp.android.tests.Test_UserProfile"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->

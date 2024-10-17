@@ -32,7 +32,7 @@ public class IOSBaseTest extends AppiumUtils{
 		String ipAddress = prop.getProperty("ipAddress");
 		String port = prop.getProperty("port");
 
-		//service = startAppiumServer(ipAddress,Integer.parseInt(port));
+		service = startAppiumServer(ipAddress,Integer.parseInt(port));
 
 		XCUITestOptions	options = new XCUITestOptions();	
 		options.setDeviceName("iPhone 14 Pro");

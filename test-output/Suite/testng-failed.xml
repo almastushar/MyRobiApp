@@ -6,47 +6,58 @@
   </listeners>
   <test thread-count="5" name="Login Test(failed)">
     <classes>
-      <class name="org.reddotdigital.singleapp.tests.Test_LoginPage">
+      <class name="org.reddotdigital.singleapp.android.tests.Test_LoginPage">
         <methods>
           <include name="tearDown"/>
           <include name="ConfigureAppium"/>
           <include name="LoginTest"/>
         </methods>
-      </class> <!-- org.reddotdigital.singleapp.tests.Test_LoginPage -->
+      </class> <!-- org.reddotdigital.singleapp.android.tests.Test_LoginPage -->
     </classes>
   </test> <!-- Login Test(failed) -->
   <test thread-count="5" name="Easy Plan Test(failed)">
     <classes>
-      <class name="org.reddotdigital.singleapp.tests.Test_EasyPlan">
+      <class name="org.reddotdigital.singleapp.android.tests.Test_EasyPlan">
         <methods>
           <include name="tearDown"/>
+          <include name="EasyPlanTest"/>
+          <include name="EasyPlanTestLowBalance"/>
           <include name="ConfigureAppium"/>
-          <include name="EasyPlanTest" invocation-numbers="0"/>
-          <include name="EasyPlanTestLowBalance" invocation-numbers="0"/>
         </methods>
-      </class> <!-- org.reddotdigital.singleapp.tests.Test_EasyPlan -->
+      </class> <!-- org.reddotdigital.singleapp.android.tests.Test_EasyPlan -->
     </classes>
   </test> <!-- Easy Plan Test(failed) -->
   <test thread-count="5" name="Gift Plan Test(failed)">
     <classes>
-      <class name="org.reddotdigital.singleapp.tests.Test_GiftPlan">
+      <class name="org.reddotdigital.singleapp.android.tests.Test_GiftPlan">
         <methods>
           <include name="tearDown"/>
-          <include name="GiftPlanTest" invocation-numbers="0"/>
           <include name="ConfigureAppium"/>
+          <include name="GiftPlanTest"/>
         </methods>
-      </class> <!-- org.reddotdigital.singleapp.tests.Test_GiftPlan -->
+      </class> <!-- org.reddotdigital.singleapp.android.tests.Test_GiftPlan -->
     </classes>
   </test> <!-- Gift Plan Test(failed) -->
   <test thread-count="5" name="Logout Test(failed)">
     <classes>
-      <class name="org.reddotdigital.singleapp.tests.Test_LogoutPage">
+      <class name="org.reddotdigital.singleapp.android.tests.Test_LogoutPage">
         <methods>
           <include name="tearDown"/>
           <include name="ConfigureAppium"/>
-          <include name="logoutTest" invocation-numbers="0"/>
+          <include name="logoutTest"/>
         </methods>
-      </class> <!-- org.reddotdigital.singleapp.tests.Test_LogoutPage -->
+      </class> <!-- org.reddotdigital.singleapp.android.tests.Test_LogoutPage -->
     </classes>
   </test> <!-- Logout Test(failed) -->
+  <test thread-count="5" name="Profile Test(failed)">
+    <classes>
+      <class name="org.reddotdigital.singleapp.android.tests.Test_UserProfile">
+        <methods>
+          <include name="tearDown"/>
+          <include name="ConfigureAppium"/>
+          <include name="homeScreenTest"/>
+        </methods>
+      </class> <!-- org.reddotdigital.singleapp.android.tests.Test_UserProfile -->
+    </classes>
+  </test> <!-- Profile Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
