@@ -1,0 +1,3 @@
+Kill appium server
+	lsof -i :4723
+	kill -9 <PID>

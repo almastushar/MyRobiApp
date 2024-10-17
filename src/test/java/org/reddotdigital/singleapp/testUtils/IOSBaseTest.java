@@ -32,19 +32,18 @@ public class IOSBaseTest extends AppiumUtils{
 		String ipAddress = prop.getProperty("ipAddress");
 		String port = prop.getProperty("port");
 
-		//service = startAppiumServer(ipAddress,Integer.parseInt(port));
+		service = startAppiumServer(ipAddress,Integer.parseInt(port));
 
 		XCUITestOptions	options = new XCUITestOptions();	
-		options.setDeviceName("iPhone 14 Pro");
+		options.setDeviceName("iPhone 16 Pro");
 		options.setApp(System.getProperty("user.dir")
 				+ "/src/test/java/org/reddotdigital/singleapp/testResources/My Robi.app");
-		options.setPlatformVersion("16.0");
+		options.setPlatformVersion("18.0");
 
 		options.setCapability("autoAcceptAlerts", true);
 		options.setWdaLaunchTimeout(Duration.ofSeconds(20));
 
-		//driver = new IOSDriver(service.getUrl(), options);
-		driver = new IOSDriver(options);
+		driver = new IOSDriver(service.getUrl(), options);
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		ios_loginPage = new IOS_LoginPage(driver);
 

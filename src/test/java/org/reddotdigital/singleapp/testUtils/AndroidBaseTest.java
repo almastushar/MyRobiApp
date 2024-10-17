@@ -46,7 +46,6 @@ public class AndroidBaseTest extends AppiumUtils {
 				+ "/src/test/java/org/reddotdigital/singleapp/testResources/my-robi.apk");
 
 		driver = new AndroidDriver(service.getUrl(), options);
-		driver = new AndroidDriver(options);
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		loginPage = new LoginPage(driver);
 	}
