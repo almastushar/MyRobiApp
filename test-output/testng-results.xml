@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-18T01:19:25 BDT" name="Default suite" finished-at="2024-10-18T01:20:06 BDT" duration-ms="41178">
+    <groups>
+      <group name="Regression">
+        <method signature="Test_IOSLoginPage.LoginTest(java.util.HashMap)[pri:0, instance:org.reddotdigital.singleapp.ios.tests.Test_IOSLoginPage@3eb7fc54]" name="LoginTest" class="org.reddotdigital.singleapp.ios.tests.Test_IOSLoginPage"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-10-18T01:19:25 BDT" name="Default test" finished-at="2024-10-18T01:20:06 BDT" duration-ms="41178">
+      <class name="org.reddotdigital.singleapp.ios.tests.Test_IOSLoginPage">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:org.reddotdigital.singleapp.ios.tests.Test_IOSLoginPage@3eb7fc54]" started-at="2024-10-18T01:19:25 BDT" name="ConfigureAppium" finished-at="2024-10-18T01:19:46 BDT" duration-ms="21335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="LoginTest(java.util.HashMap)[pri:0, instance:org.reddotdigital.singleapp.ios.tests.Test_IOSLoginPage@3eb7fc54]" started-at="2024-10-18T01:19:46 BDT" name="LoginTest" data-provider="getData" finished-at="2024-10-18T01:19:59 BDT" duration-ms="12622" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{assertMobileNum=8801849010634, assertProfileName=QATest, mobileNumber=01849010634, BangLang=Bangla, otp=401500, offerPopup=Cancel, EngLang=English, updatePopup=Later}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.reddotdigital.singleapp.ios.tests.Test_IOSLoginPage@3eb7fc54]" started-at="2024-10-18T01:19:59 BDT" name="tearDown" finished-at="2024-10-18T01:20:06 BDT" duration-ms="7127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.reddotdigital.singleapp.ios.tests.Test_IOSLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
